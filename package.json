@@ -2,7 +2,7 @@
   "name": "cleaning-service",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mixoor.github.io",
+  "homepage": "https://mixoor.github.io/cleaning-service-test",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
