@@ -1,7 +1,7 @@
 import { motion, Variants } from "framer-motion";
-import bg1 from "../../assets/(1).jpg";
-import bg2 from "../../assets/(2).jpg";
-import bg3 from "../../assets/(3).jpg";
+import bg1 from "../../assets/(1).webp";
+import bg2 from "../../assets/(2).webp";
+import bg3 from "../../assets/(3).webp";
 
 const aboutPics = [bg1, bg2, bg3];
 

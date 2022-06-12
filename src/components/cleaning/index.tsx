@@ -1,7 +1,7 @@
 import { motion, Variants } from "framer-motion";
-import bg1 from "../../assets/(3).jpg";
-import bg2 from "../../assets/(4).jpg";
-import bg3 from "../../assets/(5).jpg";
+import bg1 from "../../assets/(3).webp";
+import bg2 from "../../assets/(4).webp";
+import bg3 from "../../assets/(5).webp";
 
 const steps = [
   {

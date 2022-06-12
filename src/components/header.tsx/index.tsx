@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import bg1 from "../../assets/(2).jpg";
+import bg1 from "../../assets/(2).webp";
 import { TRANSITION } from "../../utils/constantes";
-// import bg2 from "../../assets/(4).jpg";
+
 import bars from "../../assets/svg/bars.svg";
 import { useEffect, useState } from "react";
 

@@ -2,7 +2,6 @@ import Check from "../../assets/svg/check.svg";
 import Stock from "../../assets/svg/stock.svg";
 import Union from "../../assets/svg/union.svg";
 import { motion, Variants } from "framer-motion";
-import { TRANSITION } from "../../utils/constantes";
 
 const steps = [
   {
